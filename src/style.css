@@ -1,5 +1,14 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background-image:url(https://wallpapers.com/images/hd/interactive-1920-x-1080-background-7pgyzk3lujc7qre3.jpg);
+    background-position: center top
+}
+
+#excuse {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    color: rgb(243, 239, 8);
+    padding-top: 300px;
+    padding-left: 150px;
+    font-size: 60px
 }
